@@ -12,3 +12,5 @@
 ## Day117: 阅读ClusterFuzz源码
 
 ## Day118: 学习macOS Endpoint Security相关知识
+
+## Day119: 基于macOS Endpoint Security开发系统扩展
