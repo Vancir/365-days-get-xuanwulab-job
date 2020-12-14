@@ -107,3 +107,4 @@
 | Day119     | [基于macOS Endpoint Security开发系统扩展](./weeks/week17.md)                    |
 | Day120     | [学习macOS Network Extension相关知识](./weeks/week17.md)                        |
 | Day121-122 | [基于macOS Network Extension开发网络扩展](./weeks/week17.md)                    |
+| Day123     | [基于ClusterFuzz开发漏洞挖掘平台](./weeks/week18.md)                            |
