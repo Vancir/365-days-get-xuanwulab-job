@@ -115,4 +115,5 @@
 | Day133     | [了解强化学习](./weeks/week18.md)                                               |
 | Day134     | [使用Golang进行机器学习](./weeks/week18.md)                                     |
 | Day135     | [阅读《Hands-On Graph Analytics with Neo4j》](./weeks/week19.md)                |
-
+| Day136-146 | [阅读并修改clusterfuzz源码](./weeks/week19.md)                                  |
+| Day147-148 | [训练NLP模型针对Twitter数据过滤出我更感兴趣的资讯](./weeks/week19.md)           |
